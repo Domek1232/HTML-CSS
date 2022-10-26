@@ -7,9 +7,15 @@ header {
     border-bottom: 1px solid burlywood;
 }
 
+.body{
+    margin:auto;
+    width: 1280px;
+}
+
 p {
     line-height: 150%;
     text-indent: 30px;
+    font-style: Arial;
 }
 
 section{
